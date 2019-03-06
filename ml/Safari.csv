@@ -1,0 +1,21 @@
+type,id,food consumption,water consumption,Age
+Elephant,E1,42,105,40
+Elephant,E2,41,122,15
+Tiger,T1,12,30,8
+Tiger,T2,22,35,11
+Tiger,T3,18,33,3
+Tiger,T4,25,29,15
+Tiger,T5,12,31,10
+Zebra,Z1,11,24,12
+Zebra,Z2,12,23,15
+Zebra,Z3,8,22,29
+Zebra,Z4,4,10,37
+Zebra,Z5,9,18,23
+Zebra,Z6,6,12,15
+Lion,L1,12,42,5
+Lion,L2,22,61,12
+Lion,L3,21,52,14
+Lion,L4,14,38,9
+Hippopotamus,H1,42,83,31
+Hippopotamus,H2,47,91,45
+Hippopotamus,H3,41,76,12
